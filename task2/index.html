@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="lobby">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS game lobby</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <nav data-ng-controller="SampleController">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/new">New</a></li>
+            <li><a href="/scratchcards">Scratchcards</a></li>
+            <li><a href="/jackpot">Jackpot</a></li>
+        </ul>
+    </nav>
+    <ng-view></ng-view>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

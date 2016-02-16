@@ -1,0 +1,2355 @@
+[{
+  "data": {
+    "101": {
+      "titleText": "Fluffy Favourites",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Elephants double your win in this fluffy favourite!",
+      "mobileURL": "4075",
+      "playURL": "101",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg"
+    },
+    "102": {
+      "titleText": "Aztec Rising",
+      "descriptionText": "Search for the temples to double your treasure!",
+      "playURL": "102",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/aztec-rising-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/aztec-rising-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/aztec-rising-192x144.jpg"
+    },
+    "103": {
+      "titleText": "Fireworks Frenzy",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Light up your wallet when you win on one of 25 pay lines!",
+      "mobileURL": "4124",
+      "playURL": "103",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fireworks-frenzy-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fireworks-frenzy-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fireworks-frenzy-192x144.jpg"
+    },
+    "104": {
+      "titleText": "Happy Mushroom",
+      "descriptionText": "If you go into the woods be ready for a cash surprize!",
+      "playURL": "104",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/happy-mushroom-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/happy-mushroom-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/happy-mushroom-192x144.jpg"
+    },
+    "105": {
+      "titleText": "Lost Island",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Discover your own tropical island and hunt for free spins.",
+      "mobileURL": "4097",
+      "playURL": "105",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lost-island-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lost-island-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lost-island-192x144.jpg"
+    },
+    "106": {
+      "titleText": "Mermaid's Pearl",
+      "descriptionText": "Search the ocean for bonus games and treasure chests.",
+      "playURL": "106",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/mermaids-pearl-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/mermaids-pearl-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/mermaids-pearl-480x360.jpg"
+    },
+    "107": {
+      "titleText": "Pirate Princess",
+      "descriptionText": "Sail the seven seas amd use maps to find the booty.",
+      "playURL": "107",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/pirate-princess-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/pirate-princess-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/pirate-princess-480x360.jpg"
+    },
+    "108": {
+      "titleText": "Shaman's Dream",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Don’t just dream of money, match the mystic symbols to make it.",
+      "playURL": "108",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg"
+    },
+    "109": {
+      "titleText": "Super Nova",
+      "descriptionText": "Cosmic cash in our galactic smasher!",
+      "playURL": "109",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/super-nova-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/super-nova-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/super-nova-192x144.jpg"
+    },
+    "110": {
+      "titleText": "Temple of Isis",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Explore Egyptian temples, find free games and spins.",
+      "mobileURL": "4073",
+      "playURL": "110",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/temple-of-isis-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/temple-of-isis-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/temple-of-isis-480x360.jpg"
+    },
+    "111": {
+      "titleText": "White Wizard",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "In a land of dragons, use spells to conjure up riches.",
+      "mobileURL": "4123",
+      "playURL": "111",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-192x144.jpg"
+    },
+    "112": {
+      "titleText": "Shopping Spree",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Get some retail therapy and win up to 15 free spins.",
+      "mobileURL": "4096",
+      "playURL": "112",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/shopping-spree-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/shopping-spree-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/shopping-spree-192x144.jpg"
+    },
+    "113": {
+      "titleText": "Doting Doggies",
+      "descriptionText": "Make Doting Doggies your best friend and triple your winnings!",
+      "playURL": "113",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/doting-doggies-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/doting-doggies-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/doting-doggies-192x144.jpg"
+    },
+    "114": {
+      "titleText": "Tin Town",
+      "descriptionText": "Bonus gadgets and 26 pay lines lead to supersonic rewards.",
+      "playURL": "114",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/tin-town-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/tin-town-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/tin-town-480x360.jpg"
+    },
+    "116": {
+      "titleText": "Secret Garden",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Play in the Secret Garden with a great gamble bonus.",
+      "mobileURL": "4093",
+      "playURL": "116",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/secret-garden-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/secret-garden-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/secret-garden-192x144.jpg"
+    },
+    "117": {
+      "titleText": "Beez Kneez",
+      "descriptionText": "Hit the honey pot of cash, it's oozing with bonus games.",
+      "playURL": "117",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/beez-kneez-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/beez-kneez-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/beez-kneez-192x144.jpg"
+    },
+    "118": {
+      "titleText": "Irish Luck",
+      "descriptionText": "Hunt down leprechauns, take their gold and bonus games!",
+      "playURL": "118",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/irish-luck-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/irish-luck-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/irish-luck-192x144.jpg"
+    },
+    "121": {
+      "titleText": "Quest for the Grail",
+      "descriptionText": "Use The Sword of Excalibur. Choose the right grail and win prizes!",
+      "playURL": "121",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/quest-for-the-grail-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/quest-for-the-grail-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/quest-for-the-grail-192x144.jpg"
+    },
+    "123": {
+      "titleText": "Enchanted Prince",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Enjoy fairy tale endings and win up to 25 free games.",
+      "mobileURL": "4092",
+      "playURL": "123",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/enchanted-prince-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/enchanted-prince-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/enchanted-prince-192x144.jpg"
+    },
+    "450": {
+      "titleText": "Jewel Journey",
+      "descriptionText": "Use your map to find bonus features & precious gems!",
+      "playURL": "450",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jewel-journey-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jewel-journey-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jewel-journey-480x360.jpg"
+    },
+    "451": {
+      "titleText": "Doubleup Ducks",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "You’ll go quackers with up to 15 free games!",
+      "mobileURL": "4094",
+      "playURL": "451",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/doubleup-ducks-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/doubleup-ducks-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/doubleup-ducks-192x144.jpg"
+    },
+    "452": {
+      "titleText": "Easter Island",
+      "descriptionText": "These cute tribal bunnies have a great bonus game.",
+      "playURL": "452",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/easter-island-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/easter-island-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/easter-island-192x144.jpg"
+    },
+    "453": {
+      "titleText": "Gamma Girl",
+      "descriptionText": "Bonus features and a jackpot that’ll make you say KAPOW!",
+      "playURL": "453",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gamma-girl-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gamma-girl-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gamma-girl-192x144.jpg"
+    },
+    "455": {
+      "titleText": "Fortune's Prophet",
+      "descriptionText": "Get a Zodiac fortune from this classic slot.",
+      "playURL": "455",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fortunes-prophet-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fortunes-prophet-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fortunes-prophet-480x360.jpg"
+    },
+    "457": {
+      "titleText": "Howling Fun",
+      "descriptionText": "Brave the grave and the devil will double your wins!",
+      "playURL": "457",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/howling-fun-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/howling-fun-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/howling-fun-192x144.jpg"
+    },
+    "458": {
+      "titleText": "Cupid's Arrow",
+      "descriptionText": "Fall in love with bonus rounds, extra prizes and even cupid himself!",
+      "playURL": "458",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cupids-arrow-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cupids-arrow-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cupids-arrow-480x360.jpg"
+    },
+    "459": {
+      "titleText": "Piggy Payout",
+      "descriptionText": "Have a farmyard full of fun with the prize pick feature.",
+      "playURL": "459",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/piggy-payout-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/piggy-payout-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/piggy-payout-192x144.jpg"
+    },
+    "462": {
+      "titleText": "Get's the Worm",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "The early bird gets the cash with free games and 25 pay lines.",
+      "mobileURL": "4095",
+      "playURL": "462",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gets-the-worm-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gets-the-worm-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gets-the-worm-192x144.jpg"
+    },
+    "465": {
+      "titleText": "Lucky Blossom",
+      "descriptionText": "Discover the Orient, watch for fans and double your prize!",
+      "playURL": "465",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lucky-blossom-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lucky-blossom-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lucky-blossom-192x144.jpg"
+    },
+    "466": {
+      "titleText": "Pharaoh's Luck",
+      "playURL": "466",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/pharoahs-luck-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/pharoahs-luck-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/pharoahs-luck-192x144.jpg"
+    },
+    "472": {
+      "titleText": "Shaman's Dream Jackpot",
+      "descriptionText": "Don’t just dream of money, match the mystic symbols to make it.",
+      "playURL": "472",
+      "jackpotID": "shaman_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/shamans-dream-192x144.jpg"
+    },
+    "477": {
+      "titleText": "Fluffy Favourites Jackpot",
+      "descriptionText": "Cuddle up to an incredibly cute jackpot win!",
+      "playURL": "477",
+      "jackpotID": "fluffy_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fluffy-favourites-480x360.jpg"
+    },
+    "481": {
+      "titleText": "White Wizard Jackpot",
+      "descriptionText": "Spells and enchantments can magic up a jackpot.",
+      "playURL": "481",
+      "jackpotID": "wizard_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/white-wizard-480x360.jpg"
+    },
+    "505": {
+      "titleText": "Doctor Love",
+      "descriptionText": "Get your heart racing with free spins and tripled prizes.",
+      "previewURL": "505",
+      "playURL": "505",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/doctor-love-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/doctor-love-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/doctor-love-192x144.jpg"
+    },
+    "507": {
+      "titleText": "La Partage Roulette",
+      "descriptionText": "French flair, La Partage Roulette with joie de vivre!",
+      "previewURL": "507",
+      "playURL": "507",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/la-partage-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/la-partage-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/la-partage-roulette-480x360.jpg"
+    },
+    "511": {
+      "titleText": "Cleopatra",
+      "descriptionText": "Unleash Cleopatra’s bonus, 15 free spins and more!",
+      "previewURL": "511",
+      "playURL": "511",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cleopatra-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cleopatra-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cleopatra-192x144.jpg"
+    },
+    "512": {
+      "titleText": "X factor Video Slot",
+      "descriptionText": "You be the judge and win up to 200x your stake!",
+      "previewURL": "512",
+      "playURL": "512",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/x-factor-video-slot-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/x-factor-video-slot-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/x-factor-video-slot-192x144.jpg"
+    },
+    "513": {
+      "titleText": "X factor Scratch card",
+      "descriptionText": "Do you have the Scratch Factor? Win up to 10,000x your bet!",
+      "previewURL": "513",
+      "playURL": "513",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/x-factor-scratch-card-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/x-factor-scratch-card-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/x-factor-scratch-card-192x144.jpg"
+    },
+    "520": {
+      "titleText": "Play Your Cards Right",
+      "descriptionText": "Listen to the audience cheer with bonus games and features.",
+      "previewURL": "520",
+      "playURL": "520",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/play-your-cards-right-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/play-your-cards-right-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/play-your-cards-right-480x360.jpg"
+    },
+    "525": {
+      "titleText": "Cubis",
+      "descriptionText": "Tackle this 3D challenge filled with bonus features!",
+      "previewURL": "525",
+      "playURL": "525",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cubis-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cubis-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cubis-192x144.jpg"
+    },
+    "526": {
+      "titleText": "City of Gold",
+      "descriptionText": "Find your Aztec fortune and win up to 15 free games",
+      "previewURL": "526",
+      "playURL": "526",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/city-of-gold-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/city-of-gold-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/city-of-gold-480x360.jpg"
+    },
+    "527": {
+      "titleText": "Cool Bananas",
+      "descriptionText": "Monkey around with wonderfully fruity free games!",
+      "previewURL": "527 ",
+      "playURL": "527",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cool-bananas-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cool-bananas-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cool-bananas-192x144.jpg"
+    },
+    "528": {
+      "titleText": "Dolphin Reef",
+      "descriptionText": "Dolphins can win 5 free spins in this underwater fun.",
+      "previewURL": "528",
+      "playURL": "528",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/dolphin-reef-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/dolphin-reef-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/dolphin-reef-192x144.jpg"
+    },
+    "530": {
+      "titleText": "Irish Eyes",
+      "descriptionText": "Steal the leprechaun’s gold and spot the lady kissed by fire.",
+      "previewURL": "530",
+      "playURL": "530",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/irish-eyes-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/irish-eyes-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/irish-eyes-192x144.jpg"
+    },
+    "532": {
+      "titleText": "Blankety Blank",
+      "descriptionText": "Play the famous TV game with great bonus features!",
+      "previewURL": "532",
+      "playURL": "532",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/blankety-blank-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/blankety-blank-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/blankety-blank-480x360.jpg"
+    },
+    "541": {
+      "titleText": "Wheel of Fortune",
+      "descriptionText": "Classic features including the iconic wheel itself.",
+      "previewURL": "541",
+      "playURL": "541",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/wheel-of-fortune-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/wheel-of-fortune-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/wheel-of-fortune-192x144.jpg"
+    },
+    "544": {
+      "titleText": "Amazon Wild",
+      "descriptionText": "Go wild for 100 pay lines in this fantasy rainforest.",
+      "previewURL": "544",
+      "playURL": "544",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/amazon-wild-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/amazon-wild-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/amazon-wild-192x144.jpg"
+    },
+    "4002": {
+      "titleText": "Sugar Train",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Gumball bonuses with free spins to sweeten the deal.",
+      "mobileURL": "4119",
+      "playURL": "4002",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-192x144.jpg"
+    },
+    "4013": {
+      "titleText": "Frolikin' Frogs ",
+      "descriptionText": "Hop down to the pond with two chances on each lily pad!",
+      "playURL": "4013",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/frolikin-frogs-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/frolikin-frogs-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/frolikin-frogs-192x144.jpg"
+    },
+    "4014": {
+      "titleText": "Lion Dance ",
+      "descriptionText": "Discover oriental mysteries, filled with bonus games.",
+      "playURL": "4014",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/wushi-lion-dance-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/wushi-lion-dance-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/wushi-lion-dance-480x360.jpg"
+    },
+    "4024": {
+      "titleText": "Cancan",
+      "descriptionText": "Oh-la-la! C’est magnifique. Dance around with this 5 reel slot.",
+      "playURL": "4024",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cancan-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cancan-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cancan-192x144.jpg"
+    },
+    "4026": {
+      "titleText": "Secret Garden II",
+      "descriptionText": "Play in the Secret Garden with a great gamble bonus.",
+      "playURL": "4026",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/secret-gardenII-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/secret-gardenII-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/secret-gardenII-192x144.jpg"
+    },
+    "4030": {
+      "titleText": "Chain Reactors",
+      "descriptionText": "Start a chain reaction with 5 space creature match-ups.",
+      "playURL": "4030",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/chain-reactors-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/chain-reactors-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/chain-reactors-192x144.jpg"
+    },
+    "4033": {
+      "titleText": "Unicorn Legend",
+      "descriptionText": "Gaze upon mythical beasts. Their magic grants untold riches!",
+      "playURL": "4033",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/unicorn-legend-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/unicorn-legend-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/unicorn-legend-192x144.jpg"
+    },
+    "4045": {
+      "titleText": "Joker Jester",
+      "descriptionText": "This is no funny business. Amazing multipliers to be won.",
+      "playURL": "4045",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/joker-jester192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/joker-jester192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/joker-jester192x144.jpg"
+    },
+    "4050": {
+      "titleText": "Underwater Odyssey ",
+      "descriptionText": "Dive for treasure chests and win up to 500x your bet!",
+      "playURL": "4050",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/underwater-odyssey-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/underwater-odyssey-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/underwater-odyssey-480x360.jpg"
+    },
+    "4054": {
+      "titleText": "Noughts and Crosses",
+      "descriptionText": "Reminisce with this classic and reveal great cash prizes!",
+      "previewURL": "4054",
+      "playURL": "4054",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/noughts-and-crosses-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/noughts-and-crosses-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/noughts-and-crosses-192x144.jpg"
+    },
+    "4055": {
+      "titleText": "Sands of Fortune",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Find fortune and glory within Ancient Egypt.",
+      "mobileURL": "4117",
+      "previewURL": "4055",
+      "playURL": "4055",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sands-of-fortune-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sands-of-fortune-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sands-of-fortune-192x144.jpg"
+    },
+    "4056": {
+      "titleText": "Paradise Reels",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Tropical paradise with bonus features.",
+      "mobileURL": "4115",
+      "previewURL": "4056",
+      "playURL": "4056",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/paradise-reels-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/paradise-reels-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/paradise-reels-192x144.jpg"
+    },
+    "4060": {
+      "titleText": "Hollywood Stars",
+      "descriptionText": "Win star studded prizes by matching 3 icons to get a win.",
+      "previewURL": "4060",
+      "playURL": "4060",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/hollywood-stars-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/hollywood-stars-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/hollywood-stars-192x144.jpg"
+    },
+    "4062": {
+      "titleText": "European Roulette",
+      "descriptionText": "Red or Black? Odd or Even? Take your pick and spin!",
+      "previewURL": "4062",
+      "playURL": "4062",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-480x360.jpg"
+    },
+    "4069": {
+      "titleText": "Sushi Cat",
+      "descriptionText": "Love sushi and cats? You’ll love them even more with a big win!",
+      "playURL": "4069",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sushi-cat-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sushi-cat-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sushi-cat-480x360.jpg"
+    },
+    "4072": {
+      "titleText": "European Roulette Low ",
+      "descriptionText": "Play European Roulette for a sophisticated casino experience.",
+      "playURL": "4072",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-low-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-low-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/european-roulette-low-480x360.jpg"
+    },
+    "4080": {
+      "titleText": "Monkey Paradise",
+      "descriptionText": "Classic 3 reel fun with great bonus rounds.",
+      "previewURL": "4080",
+      "playURL": "4080",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/monkey-paradise-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/monkey-paradise-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/monkey-paradise-480x360.jpg"
+    },
+    "4081": {
+      "titleText": "Move your Ass",
+      "descriptionText": "Dance your way through bonus feature, free spins and claim your rewards!",
+      "playURL": "4081",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/move-your-ass-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/move-your-ass-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/move-your-ass-192x144.jpg"
+    },
+    "4091": {
+      "titleText": "Lucky Spell",
+      "descriptionText": "Magic up some cash on this classic 3 reel slot.",
+      "previewURL": "4091",
+      "playURL": "4091",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lucky-spell-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lucky-spell-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lucky-spell-192x144.jpg"
+    },
+    "4105": {
+      "titleText": "Haunted Hallows",
+      "descriptionText": "Be spooked by 3 reels, 9 pay lines and enjoy eerie extras!",
+      "playURL": "4105",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/haunted-hallows-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/haunted-hallows-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/haunted-hallows-480x360.jpg"
+    },
+    "4120": {
+      "titleText": "Cup Carnaval",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Up to 25 free games to make you dance like you’re in Rio. ",
+      "mobileURL": "4122",
+      "playURL": "4120",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cup-carnaval-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cup-carnaval-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cup-carnaval-480x360.jpg"
+    },
+    "4188": {
+      "titleText": "Sugar Train Christmas Edition",
+      "descriptionText": "Jump on board the Christmas Sugar Train.",
+      "playURL": "4188",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sugar-train-christmas-480x360.jpg"
+    },
+    "5001": {
+      "titleText": "Chuzzle",
+      "descriptionText": "Not just a cute face <br> They have a bonus or 2 up their sleeve as well",
+      "playURL": "5001",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/chuzzle-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/chuzzle-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/chuzzle-192x144.jpg"
+    },
+    "5002": {
+      "titleText": "Zuma",
+      "descriptionText": "Face Aztec gods to reveal bonus levels and free spins.",
+      "playURL": "5002",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/zuma-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/zuma-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/zuma-480x360.jpg"
+    },
+    "5003": {
+      "titleText": "Deal or no Deal",
+      "descriptionText": "You’ve seen it on TV - now play it, with sub games and bonus features.",
+      "playURL": "5003",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-192x144.jpg"
+    },
+    "5004": {
+      "titleText": "BlackJack",
+      "descriptionText": "Shuffle your deck and beat the dealer with this classic card game!",
+      "playURL": "5004",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/blackjack-480x360.jpg"
+    },
+    "5007": {
+      "titleText": "Snakes and Ladders",
+      "descriptionText": "Climb up ladders to reach 500x your stake!",
+      "playURL": "5007",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/snakes-and-ladders-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/snakes-and-ladders-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/snakes-and-ladders-192x144.jpg"
+    },
+    "5008": {
+      "titleText": "Cops & Robbers",
+      "descriptionText": "Raise sirens for up to 100 free spins. Get extra loot in bonus games!",
+      "playURL": "5008",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cops-and-robbers-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cops-and-robbers-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cops-and-robbers-480x360.jpg"
+    },
+    "5010": {
+      "titleText": "Bejeweled 2",
+      "descriptionText": "Shimmering jewels, bonus games and a wheel of riches!",
+      "playURL": "5010",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/bejeweled2-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/bejeweled2-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/bejeweled2-192x144.jpg"
+    },
+    "5014": {
+      "titleText": "Pets Pay Day",
+      "descriptionText": "Let your furry friends nab you cash with free spins & bonus games!",
+      "playURL": "5014",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/pets-pay-day-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/pets-pay-day-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/pets-pay-day-192x144.jpg"
+    },
+    "5017": {
+      "titleText": "Midas Millions",
+      "descriptionText": "Turn it all to gold with 100,000 ways to win.",
+      "playURL": "5017",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/midas-millions-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/midas-millions-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/midas-millions-192x144.jpg"
+    },
+    "5020": {
+      "titleText": "Ocean Odds",
+      "descriptionText": "Journey to the bottom of the sea for bonus games and 20 pay lines.",
+      "playURL": "5020",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/ocean-odds-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/ocean-odds-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/ocean-odds-480x360.jpg"
+    },
+    "5022": {
+      "titleText": "3D Roulette ",
+      "descriptionText": "Bringing you closer to the excitement of Las Vegas roulette.",
+      "previewURL": "5022 ",
+      "playURL": "5022",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/3d-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/3d-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/3d-roulette-480x360.jpg"
+    },
+    "5023": {
+      "titleText": "Angel or Devil",
+      "descriptionText": "More wins or big wins? Which will you choose? ",
+      "playURL": "5023",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/angel-or-devil-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/angel-or-devil-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/angel-or-devil-192x144.jpg"
+    },
+    "5024": {
+      "titleText": "Superman",
+      "descriptionText": "Is it a bird is a plane? No it’s 50 pay lines! ",
+      "playURL": "5024",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/superman-192x144.png/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/superman-192x144.png/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/superman-192x144.png"
+    },
+    "5025": {
+      "titleText": "Dragon Master",
+      "descriptionText": "Tame mythical beasts, 20 pay lines and free spins!",
+      "previewURL": "5025",
+      "playURL": "5025",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/dragon-master-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/dragon-master-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/dragon-master-480x360.jpg"
+    },
+    "5026": {
+      "titleText": "Eastern Dragon",
+      "descriptionText": "Fiery free games with a great gamble feature.",
+      "previewURL": "5026",
+      "playURL": "5026",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/eastern-dragon-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/eastern-dragon-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/eastern-dragon-480x360.jpg"
+    },
+    "5027": {
+      "titleText": "Money Drop",
+      "descriptionText": "Don’t let it fall, with fantastic bonus features",
+      "playURL": "5027",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/the-million-pound-drop192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/the-million-pound-drop192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/the-million-pound-drop192x144.jpg"
+    },
+    "5028": {
+      "titleText": "Fire Hawk",
+      "descriptionText": "Scatter symbols mean pay outs especially in native America.",
+      "previewURL": "5028",
+      "playURL": "5028",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fire-hawk-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fire-hawk-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fire-hawk-480x360.jpg"
+    },
+    "7029": {
+      "titleText": "Wizard of Oz",
+      "descriptionText": "We’re off to see the wizard and 30 wonderful pay lines in Oz!",
+      "playURL": "7029",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/wizard-of-oz-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/wizard-of-oz-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/wizard-of-oz-480x360.jpg"
+    },
+    "7030": {
+      "titleText": "Bruce Lee",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/bruce-lee-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Grab your nun-chucks and trigger free spins",
+      "mobileURL": "7044",
+      "playURL": "7030",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/bruce-lee-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/bruce-lee-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/bruce-lee-480x360.jpg"
+    },
+    "7031": {
+      "titleText": "Invaders from the planet Moolah",
+      "descriptionText": "Watch winning rows be beamed up, win up to 50 free spins!",
+      "playURL": "7031",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/invaders-from-the-planet-moolah-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/invaders-from-the-planet-moolah-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/invaders-from-the-planet-moolah-480x360.jpg"
+    },
+    "7032": {
+      "titleText": "Kronos",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Up to 100 free spins and jackpots that can drop at any time!",
+      "mobileURL": "7042",
+      "playURL": "7032",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/kronos-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/kronos-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/kronos-480x360.jpg"
+    },
+    "7033": {
+      "titleText": "Reel em in",
+      "descriptionText": "Go fishing for free spins and progressive rewards.",
+      "playURL": "7033",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/reel-em-in-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/reel-em-in-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/reel-em-in-192x144.jpg"
+    },
+    "7034": {
+      "titleText": "Ruby Slippers",
+      "descriptionText": "Skip down the yellow brick road with 30 pay lines.",
+      "playURL": "7034",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/ruby-slippers-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/ruby-slippers-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/ruby-slippers-480x360.jpg"
+    },
+    "7036": {
+      "titleText": "Gold Fish",
+      "descriptionText": "With 25 pay lines, these fish are bonus hungry!",
+      "playURL": "7036",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gold-fish-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gold-fish-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gold-fish-480x360.jpg"
+    },
+    "7037": {
+      "titleText": "Crystal Forest",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/crystal-forest-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Believe in fairies and magic up to 50 free spins",
+      "mobileURL": "7041",
+      "playURL": "7037",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/crystal-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/crystal-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/crystal-forest-480x360.jpg"
+    },
+    "7038": {
+      "titleText": "Rainbow Riches",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/rainbow-riches-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Chase the rainbow, play the bonus rounds!",
+      "mobileURL": "7043",
+      "playURL": "7038",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/rainbow-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/rainbow-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/rainbow-riches-480x360.jpg"
+    },
+    "7039": {
+      "titleText": "Elvis",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/elvis-the-king-slider-fg.png",
+      "descriptionText": "Get your dancing shoes on. There’s 80 pay lines in this Rock n' Roll slot",
+      "playURL": "7039",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/elvis-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/elvis-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/elvis-480x360.jpg"
+    },
+    "7040": {
+      "titleText": "Alice and the mad tea party",
+      "descriptionText": "Play the weirdest and most wonderful bonus rounds!",
+      "playURL": "7040",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/alice-and-the-mad-tea-party-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/alice-and-the-mad-tea-party-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/alice-and-the-mad-tea-party-480x360.jpg"
+    },
+    "7045": {
+      "titleText": "Amazon Queen",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/amazon-queen-slider-fg.png",
+      "descriptionText": "Go deep into the rainforest! <br> Win up to 100 free spins!",
+      "mobileURL": "7054",
+      "playURL": "7045",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/amazon-queen-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/amazon-queen-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/amazon-queen-480x360.jpg"
+    },
+    "7046": {
+      "titleText": "Spartacus",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/spartacus-slider-fg.png",
+      "ribbonText": "Colossal Reels",
+      "descriptionText": "Become a gladiator and win big with bonus features.",
+      "playURL": "7046",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/spartacus-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/spartacus-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/spartacus-480x360.jpg"
+    },
+    "7047": {
+      "titleText": "Montezuma",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/montezuma-slider-fg.png",
+      "descriptionText": "Deep in the jungle you spin for your multiples!",
+      "mobileURL": "7052",
+      "playURL": "7047",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/montezuma-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/montezuma-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/montezuma-480x360.jpg"
+    },
+    "7048": {
+      "titleText": "Gems, Gems, Gems",
+      "descriptionText": "Use your map to find bonus features & precious bonus gems.",
+      "playURL": "7048",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gems-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gems-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gems-480x360.jpg"
+    },
+    "7049": {
+      "titleText": "Fire Queen",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Can you stand the heat? 50 pay lines and wild transfers.",
+      "mobileURL": "7053",
+      "playURL": "7049",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fire-queen-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fire-queen-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fire-queen-480x360.jpg"
+    },
+    "7050": {
+      "titleText": "Wicked Riches",
+      "descriptionText": "Cackle your way to cash with bonus features a plenty!",
+      "playURL": "7050",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/wicked-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/wicked-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/wicked-riches-480x360.jpg"
+    },
+    "7051": {
+      "titleText": "Giants Gold",
+      "ribbonText": "Colossal Reels",
+      "descriptionText": "Find the giant’s treasure with 100 pay lines and Colossal Reels!",
+      "playURL": "7051",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/giants-gold-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/giants-gold-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/giants-gold-480x360.jpg"
+    },
+    "7057": {
+      "titleText": "Lunaris",
+      "ribbonText": "Colossal Reels",
+      "descriptionText": "Free spins and mystery with Colossal Reels.",
+      "playURL": "7057",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lunaris-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lunaris-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lunaris-480x360.jpg"
+    },
+    "7061": {
+      "titleText": "Zeus III",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/zeus-slider-fg.png",
+      "descriptionText": "Strike a win on this six-reel, 192-line video slot!",
+      "mobileURL": "7055",
+      "playURL": "7061",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/zeus-III-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/zeus-III-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/zeus-III-480x360.jpg"
+    },
+    "7062": {
+      "titleText": "Raging Rhino",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/raging-rhino-slider-fg.png",
+      "descriptionText": "Face the stampede for big bonus rounds!",
+      "playURL": "7062",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/raging-rhino-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/raging-rhino-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/raging-rhino-480x360.jpg"
+    },
+    "7063": {
+      "titleText": "Cool Jewels",
+      "descriptionText": "Dig up Cool Jewels for the chance of rich rewards!",
+      "playURL": "7063",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cool-jewels-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cool-jewels-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cool-jewels-192x144.jpg"
+    },
+    "7064": {
+      "titleText": "Sea of Tranquility",
+      "descriptionText": "Swim and spin on this underwater adventure!",
+      "playURL": "7064",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sea-of-tranquallity-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sea-of-tranquallity-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sea-of-tranquallity-480x360.jpg"
+    },
+    "7065": {
+      "titleText": "Roman Chariots",
+      "playURL": "7065",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/roman-chariots-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/roman-chariots-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/roman-chariots-192x144.jpg"
+    },
+    "7066": {
+      "titleText": "Arabian Charms",
+      "descriptionText": "Look for the Genie and on your way to riches! ",
+      "playURL": "7066",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/arabian-charms-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/arabian-charms-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/arabian-charms-480x360.jpg"
+    },
+    "7067": {
+      "titleText": "Merry Money",
+      "descriptionText": "Rob the rich with Robin Hood and win Merry Money!",
+      "playURL": "7067",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/merry-money-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/merry-money-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/merry-money-192x144.jpg"
+    },
+    "7068": {
+      "titleText": "Money Mad Martians",
+      "descriptionText": "Enjoy cosmic cash wins that are out of this world!",
+      "mobileURL": "7072",
+      "playURL": "7068",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/mad-martians-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/mad-martians-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/mad-martians-480x360.jpg"
+    },
+    "7069": {
+      "titleText": "Ca$hino",
+      "descriptionText": "Win with this 20 line, 5 reel slot game",
+      "playURL": "7069",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cashino-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cashino-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cashino-480x360.jpg"
+    },
+    "7070": {
+      "titleText": "Nemo's Voyage",
+      "descriptionText": "Embark on new jackpot adventures",
+      "playURL": "7070",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/nemos-voyage-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/nemos-voyage-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/nemos-voyage-480x360.jpg"
+    },
+    "7076": {
+      "titleText": "OMG Kittens",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/omg-kittens-slider-fg.png",
+      "descriptionText": "Join these fluffy kitties for wilds and wins!",
+      "playURL": "7076",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/omg-kittens-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/omg-kittens-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/omg-kittens-480x360.jpg"
+    },
+    "7079": {
+      "titleText": "Monopoly Big Event",
+      "descriptionText": "Monopolise this entertaining slot game!",
+      "playURL": "7079",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/monopoly-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/monopoly-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/monopoly-480x360.jpg"
+    },
+    "7084": {
+      "titleText": "Thai Flower",
+      "descriptionText": "A taste of the orient",
+      "playURL": "7084",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/thai-flower-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/thai-flower-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/thai-flower-192x144.jpg"
+    },
+    "7085": {
+      "titleText": "Lancelot",
+      "descriptionText": "Trigger the Lancelot feature and go wild!",
+      "playURL": "7085",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lancelot-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lancelot-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lancelot-480x360.jpg"
+    },
+    "7086": {
+      "titleText": "Kiss - Shout it out Loud",
+      "descriptionText": "No need to say any more - Just ROCK ON!",
+      "playURL": "7086",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/kiss-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/kiss-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/kiss-480x360.jpg"
+    },
+    "7096": {
+      "titleText": "Cash Spin",
+      "descriptionText": "Win mega cash on the wheel of fortune",
+      "playURL": "7096",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cash-spin-192-144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cash-spin-192-144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cash-spin-192-144.jpg"
+    },
+    "7098": {
+      "titleText": "Cash Wizard",
+      "descriptionText": "The enchanting world of Cash Wizard is filled with magic! ",
+      "playURL": "7098",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cash_wizard_480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cash_wizard_480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cash_wizard_480x360.jpg"
+    },
+    "7102": {
+      "titleText": "Lady Robin Hood",
+      "descriptionText": "Set your sights on 10 Bullseye Bonus Free Games",
+      "playURL": "7102",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lady-robin-hood-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lady-robin-hood-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lady-robin-hood-480x360.jpg"
+    },
+    "9000": {
+      "titleText": "French Roulette",
+      "descriptionText": "French Roulette has class and sophistication. Faites vos jeux!",
+      "playURL": "9000",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/french-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/french-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/french-roulette-480x360.jpg"
+    },
+    "9001": {
+      "titleText": "Cafe' De Paris",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Tripled pay outs on free spins? La belle vie. ",
+      "mobileURL": "9055",
+      "playURL": "9001",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/cafe-de-paris-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/cafe-de-paris-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/cafe-de-paris-192x144.jpg"
+    },
+    "9004": {
+      "titleText": "Blood lines",
+      "descriptionText": "Sink your teeth into cash with 100 pay lines.",
+      "playURL": "9004",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/blood-lines-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/blood-lines-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/blood-lines-480x360.jpg"
+    },
+    "9006": {
+      "titleText": "A Nightmare On Elm Street",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/nightmare-on-elm-street-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "30 pay lines with terrifying action and bonus games!",
+      "mobileURL": "9057",
+      "playURL": "9006",
+      "jackpotID": "elm_total_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/a-nightmare-on-elm-street-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/a-nightmare-on-elm-street-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/a-nightmare-on-elm-street-480x360.jpg"
+    },
+    "9016": {
+      "titleText": "Saved by the Bells",
+      "descriptionText": "Play this five reel slot with up to twenty five paylines!",
+      "playURL": "9016",
+      "jackpotID": "saved_by_bells_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/saved-by-the-bells-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/saved-by-the-bells-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/saved-by-the-bells-480x360.jpg"
+    },
+    "9017": {
+      "titleText": "Evangelion",
+      "descriptionText": "Relive the 90’s cartoon with an All Pays feature",
+      "playURL": "9017",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/evangelion-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/evangelion-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/evangelion-480x360.jpg"
+    },
+    "9018": {
+      "titleText": "Jewel Thief",
+      "descriptionText": "Steal your way into the bank vault and get away with big wins!",
+      "playURL": "9018",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jewel-thief-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jewel-thief-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jewel-thief-480x360.jpg"
+    },
+    "9019": {
+      "titleText": "Sugar Doggie",
+      "descriptionText": "Start barking up this money tree with extra bonus games.",
+      "playURL": "9019",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sugar-doggie-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sugar-doggie-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sugar-doggie-192x144.jpg"
+    },
+    "9020": {
+      "titleText": "Panda Manga",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Go to the Far East where you'll find wilds a plenty!",
+      "mobileURL": "9012",
+      "playURL": "9020",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/panda-manga-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/panda-manga-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/panda-manga-480x360.jpg"
+    },
+    "9021": {
+      "titleText": "Bollywood Bonanza",
+      "descriptionText": "25 paylines of pure bright Bollywood fun!",
+      "playURL": "9021",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/bollywood-bonanza-480x360.png/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/bollywood-bonanza-480x360.png/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/bollywood-bonanza-480x360.png"
+    },
+    "9022": {
+      "titleText": "Millionaire Genie",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/millionaire-genie-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Rub the lamp, release free spins and the massive jackpot!",
+      "mobileURL": "9060",
+      "playURL": "9022",
+      "jackpotID": "millionaire_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg"
+    },
+    "9026": {
+      "titleText": "Easter Bunnies",
+      "descriptionText": "With multipliers up to 154x, this will put a spring in your step.",
+      "playURL": "9026",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/easter-bunnies-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/easter-bunnies-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/easter-bunnies-480x360.jpg"
+    },
+    "9028": {
+      "titleText": "Snowy Wonderland",
+      "descriptionText": "It’s winter all year round with added bonus features.",
+      "playURL": "9028",
+      "jackpotID": "snowy_wonderland_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/snowy-wonderland-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/snowy-wonderland-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/snowy-wonderland-480x360.jpg"
+    },
+    "9030": {
+      "titleText": "Superman Jackpot",
+      "descriptionText": "Play this jackpot for the chance of a superhuman win!",
+      "playURL": "9030",
+      "jackpotID": "wonder_woman_total_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/superman-jackpot-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/superman-jackpot-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/superman-jackpot-480x360.jpg"
+    },
+    "9032": {
+      "titleText": "Wonder Woman Jackpot",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/wonder-woman-slider-fg.png",
+      "descriptionText": "Get your cape on, this is a superhero only jackpot.",
+      "playURL": "9032",
+      "jackpotID": "wonder_woman_total_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/wonder-woman-jackpot-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/wonder-woman-jackpot-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/wonder-woman-jackpot-480x360.jpg"
+    },
+    "9033": {
+      "titleText": "The Royals",
+      "descriptionText": "Join Queenie & Co for huge jackpot and bonus features!",
+      "playURL": "9033",
+      "jackpotID": "royal_jackpot_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/the-royals-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/the-royals-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/the-royals-480x360.jpg"
+    },
+    "9035": {
+      "titleText": "Deal or No Deal European Roulette",
+      "descriptionText": "Give the roulette dealer the deal or no deal!",
+      "playURL": "9035",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-european-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-european-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-european-roulette-480x360.jpg"
+    },
+    "9036": {
+      "titleText": "Ultimate Universe",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Go to outer space with a massive jackpot available!",
+      "mobileURL": "9041",
+      "playURL": "9036",
+      "jackpotID": "ultimate_universe_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/ultimate-universe-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/ultimate-universe-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/ultimate-universe-480x360.jpg"
+    },
+    "9037": {
+      "titleText": "Mafia Madness",
+      "descriptionText": "Bag bonus games, rob the bank and multiply your prize 25x!",
+      "playURL": "9037",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/mafia-madness-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/mafia-madness-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/mafia-madness-480x360.jpg"
+    },
+    "9039": {
+      "titleText": "City Life 2",
+      "descriptionText": "How will you play this city; left-to-right, right-to-left or both? ",
+      "playURL": "9039",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/city-life2-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/city-life2-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/city-life2-480x360.jpg"
+    },
+    "9052": {
+      "titleText": "Doctors Orders",
+      "descriptionText": "Get your prescription for a win today!",
+      "playURL": "9052",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/doctors-orders-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/doctors-orders-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/doctors-orders-480x360.jpg"
+    },
+    "9053": {
+      "titleText": "Deal or No Deal - Tens or Better",
+      "descriptionText": "Beat the banker and the dealer in this great game.",
+      "playURL": "9053",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-vp-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-vp-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/deal-or-no-deal-vp-480x360.jpg"
+    },
+    "9056": {
+      "titleText": "Love From London",
+      "descriptionText": "Celebrate London with 20 paylines!",
+      "playURL": "9056",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/love-from-london-192x144.png/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/love-from-london-192x144.png/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/love-from-london-192x144.png"
+    },
+    "9062": {
+      "titleText": "Snack Time",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/snack-time-slider-fg.png",
+      "descriptionText": "Bite off a bonus and chew on some combos!",
+      "playURL": "9062",
+      "jackpotID": "elm_total_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/snack-time-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/snack-time-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/snack-time-480x360.jpg"
+    },
+    "9067": {
+      "titleText": "Viva Italia",
+      "descriptionText": "Take in the spectacles of Italy with Free Spins and Wilds.",
+      "playURL": "9067",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/viva-italia-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/viva-italia-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/viva-italia-480x360.jpg"
+    },
+    "9069": {
+      "titleText": "Once Upon a Dime",
+      "descriptionText": "Find the Prince symbol to multiply bet up to 2500x!",
+      "playURL": "9069",
+      "jackpotID": "once_upon_a_dime_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/once-upon-a-dime-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/once-upon-a-dime-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/once-upon-a-dime-480x360.jpg"
+    },
+    "9070": {
+      "titleText": "Ultimate Grill Thrills",
+      "descriptionText": "Feast on a tasty bonus round with 20 pay lines!",
+      "playURL": "9070",
+      "jackpotID": "ultimate_grill_thrills_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/ultimate-grill-thrills-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/ultimate-grill-thrills-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/ultimate-grill-thrills-480x360.jpg"
+    },
+    "9071": {
+      "titleText": "Baccarat",
+      "descriptionText": "Bet on three possible results to win in this authentic table game.",
+      "playURL": "9071",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/baccarat-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/baccarat-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/baccarat-480x360.jpg"
+    },
+    "9074": {
+      "titleText": "Freaky Fruit",
+      "descriptionText": "Get your freak on with this funky slot game!",
+      "playURL": "9074",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/freaky-fruit-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/freaky-fruit-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/freaky-fruit-480x360.jpg"
+    },
+    "9089": {
+      "titleText": "Multihand Blackjack",
+      "descriptionText": "Draw to 21 and beat the dealer with multiple hands.",
+      "playURL": "9089",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/multihand-bj-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/multihand-bj-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/multihand-bj-480x360.jpg"
+    },
+    "9090": {
+      "titleText": "Caribbean Poker",
+      "descriptionText": "Master your poker face Vs the house!",
+      "playURL": "9090",
+      "jackpotID": "caribbean_poker_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/caribbean-poker480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/caribbean-poker480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/caribbean-poker480x360.jpg"
+    },
+    "9098": {
+      "titleText": "Irish Riches",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/irish-riches-slider-fg.png",
+      "descriptionText": "Play the luck of the Irish with 15 paylines.",
+      "playURL": "9098",
+      "jackpotID": "millionaire_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/irish-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/irish-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/irish-riches-480x360.jpg"
+    },
+    "9103": {
+      "titleText": "Jackpot Jockey",
+      "descriptionText": "Giddy up and get trotting with Jackpot Jockey",
+      "playURL": "9103",
+      "jackpotID": "jackpot_jockey_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jackpot-jockey-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jackpot-jockey-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jackpot-jockey-192x144.jpg"
+    },
+    "9105": {
+      "titleText": "Seven Great Wonders Of The World",
+      "descriptionText": "Embark on a new adventure",
+      "playURL": "9105",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/seven-wonders-of-the-world-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/seven-wonders-of-the-world-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/seven-wonders-of-the-world-192x144.jpg"
+    },
+    "9112": {
+      "titleText": "American Roulette",
+      "descriptionText": "Have a spin on the American take of this classic table game!",
+      "playURL": "9112",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/american-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/american-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/american-roulette-480x360.jpg"
+    },
+    "9113": {
+      "titleText": "Gringos Dineros",
+      "descriptionText": "A cool game that is all about the WILD WEST!",
+      "playURL": "9113",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gringos-dineros-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gringos-dineros-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gringos-dineros-480x360.jpg"
+    },
+    "9114": {
+      "titleText": "4th of July",
+      "descriptionText": "5 reels, 25 payline video slot celebrating the famous American landmarks",
+      "playURL": "9114",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/4th-of-july-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/4th-of-july-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/4th-of-july-480x360.jpg"
+    },
+    "9120": {
+      "titleText": "Casino Reels",
+      "descriptionText": "Celebrate the beautiful hosts of the casino floor.",
+      "playURL": "9120",
+      "jackpotID": "casino_reels_jackpot",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/casino-reels-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/casino-reels-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/casino-reels-480x360.jpg"
+    },
+    "10001": {
+      "titleText": "Starburst",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/starburst-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Wilds and free spins with great arcade vibes.",
+      "mobileURL": "10013",
+      "playURL": "10001",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/starburst-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/starburst-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/starburst-480x360.jpg"
+    },
+    "10002": {
+      "titleText": "Gonzo's Quest",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/gonzos-quest-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Tumbling ruins replace the old with extended game play.",
+      "mobileURL": "10014",
+      "playURL": "10002",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/gonzo-quest-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/gonzo-quest-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/gonzo-quest-192x144.jpg"
+    },
+    "10003": {
+      "titleText": "Bloodsuckers",
+      "descriptionText": "Suck a chilling bonus win with 25 pay lines.",
+      "playURL": "10003",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/bloodsuckers-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/bloodsuckers-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/bloodsuckers-480x360.jpg"
+    },
+    "10004": {
+      "titleText": "Jack and the Beanstalk",
+      "descriptionText": "Climb your way to treasures in this 3D adventure.",
+      "playURL": "10004",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jack-and-the-beanstalk-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jack-and-the-beanstalk-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jack-and-the-beanstalk-192x144.jpg"
+    },
+    "10005": {
+      "titleText": "Elements",
+      "descriptionText": "Battle earth wind and fire with free fall modes and wilds",
+      "playURL": "10005",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/elements-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/elements-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/elements-192x144.jpg"
+    },
+    "10006": {
+      "titleText": "Victorious",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "March into battle with 243 ways to win.",
+      "mobileURL": "10016",
+      "playURL": "10006",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/victorious-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/victorious-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/victorious-192x144.jpg"
+    },
+    "10008": {
+      "titleText": "Excalibur",
+      "descriptionText": "Medieval mystery with up to 120,000 coins to be won in one spin!",
+      "playURL": "10008",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/excalibur-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/excalibur-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/excalibur-192x144.jpg"
+    },
+    "10009": {
+      "titleText": "Jack Hammer 2",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/jack-hammer-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "In the gritty underworld sticky wins keep it spinning.",
+      "mobileURL": "10015",
+      "playURL": "10009",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jack-hammer2-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jack-hammer2-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jack-hammer2-192x144.jpg"
+    },
+    "10010": {
+      "titleText": "Fruit Shop",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Classic fruit slots feel all wins multiplied by 2.",
+      "mobileURL": "10027",
+      "playURL": "10010",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-192x144.jpg"
+    },
+    "10011": {
+      "titleText": "Disco Spins",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Fill the dance floor with up to 8 wild symbols a spin.",
+      "mobileURL": "10022",
+      "playURL": "10011",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/disco-spins-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/disco-spins-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/disco-spins-192x144.jpg"
+    },
+    "10012": {
+      "titleText": "Piggy Riches",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/piggy-riches-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Pig out with that mega money feeling and 15 pay lines!",
+      "mobileURL": "10035",
+      "playURL": "10012",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/piggy-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/piggy-riches-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/piggy-riches-480x360.jpg"
+    },
+    "10017": {
+      "titleText": "Live Roulette ",
+      "descriptionText": "Play against live dealers and win real money!",
+      "playURL": "10017",
+      "videoOverlay": "https://images.cashcade.co.uk/FoxyCasino/Videos/live-roulette.mp4",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/live-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/live-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/live-roulette-480x360.jpg"
+    },
+    "10018": {
+      "titleText": "Robin Hood",
+      "descriptionText": "Money bags saved for a year and a Shifting Reels feature.",
+      "playURL": "10018",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/robin-hood192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/robin-hood192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/robin-hood192x144.jpg"
+    },
+    "10024": {
+      "titleText": "Live Automatic Roulette ",
+      "descriptionText": "Take your Roulette experience to the next level and play live!",
+      "playURL": "10024",
+      "videoOverlay": "https://images.cashcade.co.uk/FoxyCasino/Videos/live-automatic-roulette.mp4",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/live-automatic-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/live-automatic-roulette-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/live-automatic-roulette-480x360.jpg"
+    },
+    "10025": {
+      "titleText": "Flowers",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "30 paylines and 3x multiplyer for free spins and big wins.",
+      "mobileURL": "10023",
+      "playURL": "10025",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/flowers-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/flowers-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/flowers-480x360.jpg"
+    },
+    "10026": {
+      "titleText": "Twin Spin",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/twin-spin-slider-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Two reels spin identically giving that real casino feel.",
+      "mobileURL": "10028",
+      "playURL": "10026",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/twin-spin-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/twin-spin-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/twin-spin-480x360.jpg"
+    },
+    "10029": {
+      "titleText": "Subtopia",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Random multiplier up to x5 and 20 underwater pay lines",
+      "mobileURL": "10030",
+      "playURL": "10029",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/subtopia-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/subtopia-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/subtopia-480x360.jpg"
+    },
+    "10031": {
+      "titleText": "Lucky Angler",
+      "descriptionText": "Catch a big’un in this underwater reel.",
+      "playURL": "10031",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lucky-angler-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lucky-angler-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lucky-angler-480x360.jpg"
+    },
+    "10033": {
+      "titleText": "Lights",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Fire flies, free Spins and Floating Wilds at dusk!",
+      "mobileURL": "10034",
+      "playURL": "10033",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/lights-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/lights-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/lights-480x360.jpg"
+    },
+    "10036": {
+      "titleText": "Magic Portals",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Magic Wild transformations and win up to 64,000 coins!",
+      "mobileURL": "10037",
+      "playURL": "10036",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/magic-portals-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/magic-portals-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/magic-portals-480x360.jpg"
+    },
+    "10039": {
+      "titleText": "South Park",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/south-park-slider-fg.png",
+      "descriptionText": "Come on down to South Park for your chance to win!",
+      "mobileURL": "10038",
+      "playURL": "10039",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/south-park-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/south-park-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/south-park-480x360.jpg"
+    },
+    "10040": {
+      "titleText": "Tornado Farm Escape",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/tornado-farm-slider-fg.png",
+      "descriptionText": "Spin up a big win and save the animals!",
+      "mobileURL": "10041",
+      "playURL": "10040",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/tornado-farm-escape-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/tornado-farm-escape-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/tornado-farm-escape-480x360.jpg"
+    },
+    "10042": {
+      "titleText": "Reel Rush",
+      "descriptionText": "Featuring Wild substitutions, re-spins and Free Spins!",
+      "playURL": "10042",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/reel-rush-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/reel-rush-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/reel-rush-480x360.jpg"
+    },
+    "10044": {
+      "titleText": "EggOMatic",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/eggomatic-slider-fg.png",
+      "descriptionText": "Play this 5 reel, 20 line slot with free spins and prize eggs!",
+      "playURL": "10044",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/egg-o-matic-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/egg-o-matic-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/egg-o-matic-480x360.jpg"
+    },
+    "10047": {
+      "titleText": "Steam Tower",
+      "descriptionText": "15 paylines featuring Stacked Wilds, Free Spins & Multipliers",
+      "playURL": "10047",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/steamtower-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/steamtower-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/steamtower-480x360.jpg"
+    },
+    "10049": {
+      "titleText": "Spinata Grande",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/spinata-grande-slider-fg.png",
+      "descriptionText": "Hold on to your sombrero for your chance win!",
+      "mobileURL": "10050",
+      "playURL": "10049",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/spinata-grande-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/spinata-grande-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/spinata-grande-480x360.jpg"
+    },
+    "10052": {
+      "titleText": "Live Blackjack",
+      "descriptionText": "Take your Blackjack experience to the next level and play live!",
+      "playURL": "10052",
+      "videoOverlay": "https://images.cashcade.co.uk/FoxyCasino/Videos/live-blackjack.mp4",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/live-blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/live-blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/live-blackjack-480x360.jpg"
+    },
+    "10055": {
+      "titleText": "Single Deck Blackjack",
+      "descriptionText": "kjuhfas fhsjkf",
+      "playURL": "10055",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/millionaire-genie-480x360.jpg"
+    },
+    "10063": {
+      "titleText": "Jackpot 6000",
+      "descriptionText": "Featuring jokers, head or tails double and a supermeter mode!",
+      "mobileURL": "10064",
+      "playURL": "10063",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/jackpot-6000-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/jackpot-6000-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/jackpot-6000-480x360.jpg"
+    },
+    "10065": {
+      "titleText": "Secret of the Stones",
+      "descriptionText": "Unlock free spins and bonus rounds in this secret game!",
+      "playURL": "10065",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/secret-of-the-stones-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/secret-of-the-stones-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/secret-of-the-stones-480x360.jpg"
+    },
+    "10067": {
+      "titleText": "Texas Hold Em Pro Series - Low Limits",
+      "descriptionText": "Exciting new low limits poker game - best 5 card hand wins.",
+      "playURL": "10067",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg"
+    },
+    "10069": {
+      "titleText": "Oasis Poker Pro Series - Low Limits",
+      "descriptionText": "New low limits poker game - beat the dealer with a 5 card hand!",
+      "playURL": "10069",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg"
+    },
+    "10071": {
+      "titleText": "Deuces Wild",
+      "descriptionText": "Single player video poker game with a real casino feel!",
+      "playURL": "10071",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/deuces_wild_480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/deuces_wild_480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/deuces_wild_480x360.jpg"
+    },
+    "10073": {
+      "titleText": "South Park - Reel Chaos",
+      "descriptionText": "Join the gang for more bonus rounds and chaos reels!",
+      "playURL": "10073",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/south_park_reel_chaos_480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/south_park_reel_chaos_480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/south_park_reel_chaos_480x360.jpg"
+    },
+    "10077": {
+      "titleText": "Sparks",
+      "descriptionText": "Let the sparks fly in this 5 reel slot!",
+      "playURL": "10077",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sparks-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sparks-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sparks-480x360.jpg"
+    },
+    "10082": {
+      "titleText": "Texas Hold Em Pro Series - Standard Limits",
+      "descriptionText": "Exciting new standard limits poker game - best 5 card hand wins.",
+      "playURL": "10082",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/texas_hold_em_480x360.jpg"
+    },
+    "10083": {
+      "titleText": "Oasis Poker Pro Series - Standard Limits",
+      "descriptionText": "New standard limits poker game - beat the dealer with a 5 card hand!",
+      "playURL": "10083",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/oasis-poker-480x360.jpg"
+    },
+    "10084": {
+      "titleText": "Flowers Christmas Edition",
+      "descriptionText": "Play this blooming good Christmas Edition slot game!",
+      "playURL": "10084",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/flowers-xmas-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/flowers-xmas-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/flowers-xmas-480x360.jpg"
+    },
+    "10086": {
+      "titleText": "Fruit Shop Christmas Edition",
+      "descriptionText": "The classic fruit slot with a Christmas makeover!",
+      "playURL": "10086",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fruit-shop-christmas-480x360.jpg"
+    },
+    "10088": {
+      "titleText": "Koi Princess",
+      "descriptionText": "Eastern exotica with random bonus features",
+      "playURL": "10088",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/koi-princess-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/koi-princess-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/koi-princess-480x360.jpg"
+    },
+    "12010": {
+      "titleText": "I Love Christmas",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/I-love-christmas-fg.png",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "It’s Christmas all year round with presents and multipliers.",
+      "mobileURL": "12011",
+      "playURL": "12010",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/i-love-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/i-love-christmas-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/i-love-christmas-480x360.jpg"
+    },
+    "12027": {
+      "titleText": "Fish & Chips",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Swim to the depths for bonus rounds and random multipliers.",
+      "mobileURL": "12004",
+      "playURL": "12027",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fish-and-chips-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fish-and-chips-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fish-and-chips-480x360.jpg"
+    },
+    "12034": {
+      "titleText": "Magical Forest",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Use glasses to view this game in 3D. Play for as little as 25p!",
+      "mobileURL": "12001",
+      "playURL": "12034",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/magical-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/magical-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/magical-forest-480x360.jpg"
+    },
+    "12037": {
+      "titleText": "Tokyo Nights",
+      "descriptionText": "Go to night time Tokyo, face the gangsters & get the bonuses!",
+      "playURL": "12037",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/tokyo-nights-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/tokyo-nights-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/tokyo-nights-480x360.jpg"
+    },
+    "12038": {
+      "titleText": "Fur Ball",
+      "descriptionText": "Cough up a huge win with bonus features along the way!",
+      "playURL": "12038",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fur-ball-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fur-ball-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fur-ball-480x360.jpg"
+    },
+    "12045": {
+      "titleText": "Las Cucas Locas",
+      "descriptionText": "Grab your sombrero and win your cash in Mexico.",
+      "mobileURL": "12002",
+      "playURL": "12045",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/las-cucas-locas-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/las-cucas-locas-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/las-cucas-locas-480x360.jpg"
+    },
+    "12047": {
+      "titleText": "Fruit Abduction",
+      "ribbonText": "Also on Mobile",
+      "descriptionText": "Fly to outer space with bonus rounds and multipliers.",
+      "mobileURL": "12048",
+      "playURL": "12047",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/fruit-abduction-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/fruit-abduction-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/fruit-abduction-480x360.jpg"
+    },
+    "12093": {
+      "titleText": "Foxy's World",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/foxys-world-fg.png",
+      "ribbonText": "Exclusive",
+      "descriptionText": "Giddy up Girty and play our exclusive Foxy game!",
+      "playURL": "12093",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/foxys-world-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/foxys-world-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/foxys-world-480x360.jpg"
+    },
+    "12103": {
+      "titleText": "The Only Way Is Essex",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/towie-slot-slider-fg.png",
+      "ribbonText": "Exclusive",
+      "descriptionText": "Exclusive Only Way is Essex Slot Game",
+      "playURL": "12103",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/towie-slot-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/towie-slot-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/towie-slot-480x360.jpg"
+    },
+    "12104": {
+      "titleText": "Towie Scratch Card",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/common/instant-win/homepage-slider/towie-scratch-slider-fg.png",
+      "ribbonText": "Scratch Card",
+      "descriptionText": "Chloe's Beauty Bar scratch card - Exclusive to Foxy",
+      "playURL": "12104",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/towie-scratchcard-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/towie-scratchcard-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/towie-scratchcard-192x144.jpg"
+    },
+    "13021": {
+      "titleText": "Bars and Bells",
+      "descriptionText": "The very best of the classic Vegas slots",
+      "playURL": "13021",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/bars-and-bells-192x144.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/bars-and-bells-192x144.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/bars-and-bells-192x144.jpg"
+    },
+    "13026": {
+      "titleText": "Aladdins Legacy",
+      "descriptionText": "Rub on this genies lantern!",
+      "playURL": "13026",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/aladdins-legacy-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/aladdins-legacy-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/aladdins-legacy-480x360.jpg"
+    },
+    "13048": {
+      "titleText": "Pixies of the Forest",
+      "descriptionText": "99 paylines of Tumbling Reels in an enchanting world!",
+      "playURL": "13048",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/pixies-of-the-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/pixies-of-the-forest-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/pixies-of-the-forest-480x360.jpg"
+    },
+    "13050": {
+      "titleText": "Golden Goddess",
+      "descriptionText": "Embark on a mythical odyssey of big wins with Golden Goddess!",
+      "playURL": "13050",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/golden-golden-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/golden-golden-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/golden-golden-480x360.jpg"
+    },
+    "13052": {
+      "titleText": "Serengeti Diamonds",
+      "descriptionText": "Travel to Africa and dig for treasure in this new 25-line slot!",
+      "playURL": "13052",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/serengeti-diamonds-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/serengeti-diamonds-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/serengeti-diamonds-480x360.jpg"
+    },
+    "13055": {
+      "titleText": "Diamond Tower",
+      "sliderForegroundDesktopReference": "https://content.iivt.com/content/dam/bingo/foxybingocom/promotions/instant-win/fb3221-diamond-tower-iw-slot-games-banner-fg.png",
+      "descriptionText": "1024 ways slot game featuring a sexy cat burglar",
+      "playURL": "13055",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/diamond-tower-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/diamond-tower-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/diamond-tower-480x360.jpg"
+    },
+    "13059": {
+      "titleText": "Sidebet Blackjack",
+      "ribbonText": "New Game",
+      "descriptionText": "Standard 6-deck blackjack game with 5 side bets to choose from!",
+      "playURL": "13059",
+      "thumbnails": {
+        "small": "https://content.iivt.com/content/dam/common/instant-win/sidebet-blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.230.170.jpeg",
+        "large": "https://content.iivt.com/content/dam/common/instant-win/sidebet-blackjack-480x360.jpg/jcr:content/renditions/cq5dam.web.450.340.jpeg"
+      },
+      "fileReference": "https://content.iivt.com/content/dam/common/instant-win/sidebet-blackjack-480x360.jpg"
+    }
+  },
+  "success": true
+}]
