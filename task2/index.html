@@ -1,24 +1,51 @@
 <!DOCTYPE html>
 <html lang="en" data-ng-app="lobby">
 <head>
+    <base href="/"></base>
     <meta charset="UTF-8">
-    <base href="/">
     <title>AngularJS game lobby</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <style>
+        body {font-family:'Verdana';}
+        .container {width:980px;margin:0 auto;}
+        nav {width:100%;margin-top:20px;}
+        nav ul {width:100%;margin:0;padding:0;border-bottom:5px solid deeppink;height:50px;}
+        nav ul li {width:22%;margin-right:4%;float:left;list-style: none;background:pink;height:50px;
+            border-radius:3px 3px 0 0;-webkit-border-radius:3px 3px 0 0;}
+        nav ul li:last-child {margin:0;}
+        nav ul li.active {background:deeppink;}
+        nav ul li a {display:block;width:100%;height:100%;text-align:center;padding:15px;box-sizing: border-box;
+            font-size:20px;text-decoration:none;color:white;}
+        .game {width:18%;margin-right:2.5%;background:yellow;padding:10px;margin-bottom:20px;float:left;
+            box-sizing: border-box;border-radius:3px;-webkit-border-radius:3px;height:300px;}
+        .nwgames .game:nth-child(5n+5), .scgames .game:nth-child(5n+5), .jpgames .game:nth-child(5n+5) {margin:0;}
+        .game {position:relative;}
+        .game img {width:100%;border-radius:3px;-webkit-border-radius:3px;}
+        .game h3 {margin:10px 0;padding:0;font-size:16px;line-height:20px;}
+        .game p {font-size: 14px;margin:0;}
+        .game a {position: absolute;bottom:20px;padding:4px 15px 5px;border-radius:3px;-webkit-border-radius:3px;
+            background:green;color:white;text-decoration: none;}
+        .game a:hover {background:limegreen;}
+        .clearer:before, .clearer:after {content:""; display:table;}
+        .clearer:after {clear:both;}
+        a.showmore {display:block;width:100%;height:50px;text-align:center;padding:12px;box-sizing: border-box;
+            background:dodgerblue;color:white;font-size:20px;text-transform:uppercase;order-radius:3px;
+            -webkit-border-radius:3px;text-decoration: none;}
+    </style>
 </head>
 <body>
 <div class="container">
-    <nav data-ng-controller="MainController">
+    <nav data-ng-controller="NavController">
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/new">New</a></li>
-            <li><a href="/scratchcards">Scratchcards</a></li>
-            <li><a href="/jackpot">Jackpot</a></li>
+            <li data-ng-class="{active:active('/')}"><a href="/">Home</a></li>
+            <li data-ng-class="{active:active('/new')}"><a href="/new">New</a></li>
+            <li data-ng-class="{active:active('/scratchcards')}"><a href="/scratchcards">Scratchcards</a></li>
+            <li data-ng-class="{active:active('/jackpot')}"><a href="/jackpot">Jackpot</a></li>
         </ul>
     </nav>
     <ng-view></ng-view>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.js"></script>
-<script src="app.js"></script>
+<script src="prod/app.js"></script>
 </body>
 </html>

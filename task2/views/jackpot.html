@@ -1,0 +1,11 @@
+<div data-ng-controller="MainController">
+    <h1>Jackpots</h1>
+    <div class="jpgames">
+        <div class="game" data-ng-repeat="items in jackpots">
+            <img data-ng-src="{{items.fileReference}}" />
+            <h3>{{items.titleText}}</h3>
+            <p>{{items.descriptionText}}</p>
+            <a data-ng-href="#{{items.playURL}}">Click</a>
+        </div>
+    </div>
+</div>
