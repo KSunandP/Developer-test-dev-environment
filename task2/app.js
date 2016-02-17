@@ -3,7 +3,28 @@
 
     angular.module('lobby', ['ngRoute'])
         .config(function($routeProvider, $locationProvider) {
-            // configure your $routeProvider and $locationProvider settings here
+            $routeProvider
+                .when('/', {
+                    templateUrl : 'home.html',
+                    controller : mainController
+                })
+                .when('/new', {
+                    templateUrl : 'new.html',
+                    controller : mainController
+                })
+                .when('/scratchcards', {
+                    templateUrl : 'scratchcards.html',
+                    controller : mainController
+                })
+                .when('/jackpot', {
+                    templateUrl : 'jackpot.html',
+                    controller : mainController
+                })
+                .otherwise({
+                    redirectTo: '/'
+                });
+
+            $locationProvider.html5Mode(true);
         })
         .controller('SampleController', ['$scope', SampleController]);
 
