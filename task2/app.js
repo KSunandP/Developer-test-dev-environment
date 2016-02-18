@@ -26,19 +26,37 @@
 
             $locationProvider.html5Mode(true);
         })
+        .factory('Categories', ['$http', Categories])
         .factory('Games', ['$http', Games])
         .controller('NavController', ['$scope', '$location', NavController])
-        .controller('MainController', ['$scope', '$http', 'Games', MainController]);
+        .controller('MainController', ['$scope', '$http', 'Categories', 'Games', MainController]);
 
-    function Games($http) {
+    function Categories($http) {
+        // returns data from feed when getCat called
         return {
-            getData: function () {
+            getCat() {
                 let promise = $http({method: 'GET', url: './category-feed.json'})
-                    .success(function (data) {
+                    .success((data) => {
                         return data;
                     })
-                    .error(function () {
-                        return {"status": false};
+                    .error(() => {
+                        console.log('Failed to get categories');
+                    });
+                return promise;
+            }
+        };
+    }
+
+    function Games($http) {
+        // returns data from feed when getGames called
+        return {
+            getGames() {
+                let promise = $http({method: 'GET', url: './game-feed.json'})
+                    .success((data) => {
+                        return data;
+                    })
+                    .error(() => {
+                        console.log('Failed to get games');
                     });
                 return promise;
             }
@@ -50,47 +68,45 @@
         $scope.active = (viewPath) => {return viewPath === $location.path()}
     }
 
-    function MainController($scope, $http, Games) {
-        // Set up new arrays for game info by category
+    function MainController($scope, $http, Categories, Games) {
+        // New arrays to hold combined data from feeds sorted by game category
         $scope.new = [];
         $scope.scratchcards = [];
         $scope.jackpots = [];
 
         // Get data from category feed and combine with game data through corresponding gameId
-        Games.getData().then(function(promise) {
-            angular.forEach(promise.data[0].data.new, function(entry){
-                $http.get('./game-feed.json')
-                    .success(function(data) {
-                        $scope.new.push(angular.extend(entry, data[0].data[entry.gameId]));
-                    });
+        Categories.getCat().then(function(promise) {
+            angular.forEach(promise.data[0].data.new, (entry) => {
+                Games.getGames().then((promise) => {
+                    $scope.new.push(angular.extend(entry, promise.data[0].data[entry.gameId]));
+                });
             });
-            angular.forEach(promise.data[0].data.scratchcards, function(entry){
-                $http.get('./game-feed.json')
-                    .success(function(data) {
-                        $scope.scratchcards.push(angular.extend(entry, data[0].data[entry.gameId]));
-                    });
+            angular.forEach(promise.data[0].data.scratchcards, (entry) => {
+                Games.getGames().then((promise) => {
+                    $scope.scratchcards.push(angular.extend(entry, promise.data[0].data[entry.gameId]));
+                });
             });
-            angular.forEach(promise.data[0].data.jackpot, function(entry){
-                $http.get('./game-feed.json')
-                    .success(function(data) {
-                        $scope.jackpots.push(angular.extend(entry, data[0].data[entry.gameId]));
-                    });
+            angular.forEach(promise.data[0].data.jackpot, (entry) => {
+                Games.getGames().then((promise) => {
+                    $scope.jackpots.push(angular.extend(entry, promise.data[0].data[entry.gameId]));
+                });
             });
         });
 
+        // Set variables for limitTo filter to be altered by increments of 5 by click on a cta calling showmore function
         $scope.nwlimit = 5;
         $scope.sclimit = 5;
         $scope.jplimit = 5;
         $scope.showmore = (type) => {
             switch (type) {
                 case 'nw':
-                    $scope.nwlimit = 10;
+                    $scope.nwlimit += 5;
                     break;
                 case 'sc':
-                    $scope.sclimit = 10;
+                    $scope.sclimit += 5;
                     break;
                 case 'jp':
-                    $scope.jplimit = 10;
+                    $scope.jplimit += 5;
                     break;
             }
 

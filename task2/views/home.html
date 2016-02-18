@@ -1,32 +1,32 @@
 <div data-ng-controller="MainController">
     <h1>New</h1>
     <div class="nwgames clearer">
-        <div class="game" data-ng-repeat="items in new | limitTo : nwlimit">
+        <div class="game" data-ng-class="{last: ($index + 1) % 5 === 0 && $index !== 0}" data-ng-repeat="items in new | limitTo : nwlimit">
             <img data-ng-src="{{items.fileReference}}" />
             <h3>{{items.titleText}}</h3>
             <p>{{items.descriptionText}}</p>
-            <a data-ng-href="#{{items.playURL}}">Click</a>
+            <a data-ng-href="#{{items.playURL}}">Play now</a>
         </div>
     </div>
-    <a data-ng-click="showmore('nw')" data-ng-hide="nwlimit === 10" href="#" class="showmore">Show more</a>
+    <a data-ng-click="showmore('nw')" data-ng-hide="nwlimit >= new.length" href="#" class="showmore">Show more</a>
     <h1>Scratchcards</h1>
     <div class="scgames clearer">
-        <div class="game" data-ng-repeat="items in scratchcards | limitTo : sclimit">
+        <div class="game" data-ng-class="{last: ($index + 1) % 5 === 0 && $index !== 0}" data-ng-repeat="items in scratchcards | limitTo : sclimit">
             <img data-ng-src="{{items.fileReference}}" />
             <h3>{{items.titleText}}</h3>
             <p>{{items.descriptionText}}</p>
-            <a data-ng-href="#{{items.playURL}}">Click</a>
+            <a data-ng-href="#{{items.playURL}}">Play now</a>
         </div>
     </div>
-    <a data-ng-click="showmore('sc')" data-ng-hide="sclimit === 10" href="#" class="showmore">Show more</a>
+    <a data-ng-click="showmore('sc')" data-ng-hide="sclimit >= scratchcards.length" href="#" class="showmore">Show more</a>
     <h1>Jackpots</h1>
     <div class="jpgames clearer">
-        <div class="game" data-ng-repeat="items in jackpots | limitTo : jplimit">
+        <div class="game" data-ng-class="{last: ($index + 1) % 5 === 0 && $index !== 0}" data-ng-repeat="items in jackpots | limitTo : jplimit">
             <img data-ng-src="{{items.fileReference}}" />
             <h3>{{items.titleText}}</h3>
             <p>{{items.descriptionText}}</p>
-            <a data-ng-href="#{{items.playURL}}">Click</a>
+            <a data-ng-href="#{{items.playURL}}">Play now</a>
         </div>
     </div>
-    <a data-ng-click="showmore('jp')" data-ng-hide="jplimit === 10" href="#" class="showmore">Show more</a>
+    <a data-ng-click="showmore('jp')" data-ng-hide="jplimit >= jackpots.length" href="#" class="showmore">Show more</a>
 </div>
